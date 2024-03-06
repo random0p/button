@@ -36,7 +36,7 @@ body
     position:absolute;
     width:110%;
     height:115%;
-    background-color:#a933;
+    background-color:rgba(255, 0, 0, 0);
     right:100%;
     top:-5px;
     transition:all 0.8s ease-in-out;
